@@ -1,6 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+For running this project you should have react, react-redux and material ui installed. For installation please use :
+
+npm install --save react-redux
+npm install --save @material-ui/core
 
 In the project directory, you can run:
 
